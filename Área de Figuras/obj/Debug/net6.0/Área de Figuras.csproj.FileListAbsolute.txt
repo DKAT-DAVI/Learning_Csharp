@@ -1,0 +1,15 @@
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/bin/Debug/net6.0/Área de Figuras
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/bin/Debug/net6.0/Área de Figuras.deps.json
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/bin/Debug/net6.0/Área de Figuras.runtimeconfig.json
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/bin/Debug/net6.0/Área de Figuras.dll
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/bin/Debug/net6.0/Área de Figuras.pdb
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/obj/Debug/net6.0/Área de Figuras.csproj.AssemblyReference.cache
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/obj/Debug/net6.0/Área de Figuras.GeneratedMSBuildEditorConfig.editorconfig
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/obj/Debug/net6.0/Área de Figuras.AssemblyInfoInputs.cache
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/obj/Debug/net6.0/Área de Figuras.AssemblyInfo.cs
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/obj/Debug/net6.0/Área de Figuras.csproj.CoreCompileInputs.cache
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/obj/Debug/net6.0/Área de Figuras.dll
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/obj/Debug/net6.0/refint/Área de Figuras.dll
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/obj/Debug/net6.0/Área de Figuras.pdb
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/obj/Debug/net6.0/Área de Figuras.genruntimeconfig.cache
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/obj/Debug/net6.0/ref/Área de Figuras.dll

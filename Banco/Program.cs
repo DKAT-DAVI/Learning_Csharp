@@ -13,20 +13,12 @@ namespace Program
             Console.WriteLine($"-=-=-=-=-=-=-=-=-=-=-=-=-=");
 
             //Definição do objeto conta bancária
-            ContaBancaria conta = new ContaBancaria();
             ContaBancaria conta1 = new ContaBancaria(55, 1000);
-
-            //Número padrão da conta.
-            Console.WriteLine($"Número padrão: {conta.Numero}");
-            //Saldo inicial da conta.
-            Console.WriteLine($"Saldo incial: {conta.Saldo}");
-
-            Console.WriteLine();
 
             //Número da conta.
             Console.WriteLine($"Número da conta: {conta1.Numero}");
             //Saldo da conta.
-            Console.WriteLine($"Saldo inserido: {conta1.Saldo}");
+            Console.WriteLine($"Saldo inicial: {conta1.Saldo}");
 
             Console.WriteLine();
 

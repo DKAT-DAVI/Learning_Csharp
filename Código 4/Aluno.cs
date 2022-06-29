@@ -9,4 +9,10 @@ public class Aluno
         //Declarando construtor padrão como "Sem nome definido"
         Nome = "Sem nome definido";
     }
+
+    //Construtor sobrecarregado.
+    public Aluno(String nome)
+    {
+        Nome = nome;
+    }
 }

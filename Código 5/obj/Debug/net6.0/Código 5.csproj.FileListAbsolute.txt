@@ -1,0 +1,15 @@
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Código 5/bin/Debug/net6.0/Código 5
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Código 5/bin/Debug/net6.0/Código 5.deps.json
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Código 5/bin/Debug/net6.0/Código 5.runtimeconfig.json
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Código 5/bin/Debug/net6.0/Código 5.dll
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Código 5/bin/Debug/net6.0/Código 5.pdb
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Código 5/obj/Debug/net6.0/Código 5.csproj.AssemblyReference.cache
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Código 5/obj/Debug/net6.0/Código 5.GeneratedMSBuildEditorConfig.editorconfig
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Código 5/obj/Debug/net6.0/Código 5.AssemblyInfoInputs.cache
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Código 5/obj/Debug/net6.0/Código 5.AssemblyInfo.cs
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Código 5/obj/Debug/net6.0/Código 5.csproj.CoreCompileInputs.cache
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Código 5/obj/Debug/net6.0/Código 5.dll
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Código 5/obj/Debug/net6.0/refint/Código 5.dll
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Código 5/obj/Debug/net6.0/Código 5.pdb
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Código 5/obj/Debug/net6.0/Código 5.genruntimeconfig.cache
+/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Código 5/obj/Debug/net6.0/ref/Código 5.dll

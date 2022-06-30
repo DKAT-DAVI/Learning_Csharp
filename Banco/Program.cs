@@ -19,7 +19,7 @@ namespace Program
             //Número da conta.
             Console.WriteLine($"Número da conta: {conta1.Numero}");
             //Senha sugerida.
-            //Método SugerirSenha que recebe como parâmetro o tamanho para a senha.
+            /*Método SugerirSenha que recebe como parâmetro o tamanho para a senha.*/
             Console.WriteLine($"Senha sugerida: {conta1.SugerirSenha(12)}");
             //Senha da conta.
             conta1.Senha = "012345678912345";

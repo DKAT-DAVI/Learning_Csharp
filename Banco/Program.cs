@@ -18,11 +18,21 @@ namespace Program
 
             //Número da conta.
             Console.WriteLine($"Número da conta: {conta1.Numero}");
+            //Senha sugerida.
+            //Método SugerirSenha que recebe como parâmetro o tamanho para a senha.
+            Console.WriteLine($"Senha sugerida: {conta1.SugerirSenha(12)}");
             //Senha da conta.
             conta1.Senha = "012345678912345";
-            Console.WriteLine($"Senha da conta: {conta1.Senha}");
             //Saldo da conta.
             Console.WriteLine($"Saldo inicial: R${conta1.Saldo.ToString("0.00")}");
+
+            Console.WriteLine();
+
+            //Verificação da senha através do método IsSenhaValida.
+            //Testando senha errado.
+            Console.WriteLine($"Verificação de senha: {conta1.IsSenhaValida("40028922")}");
+            //Testando senha certa.
+            Console.WriteLine($"Verificação de senha: {conta1.IsSenhaValida("012345678912")}");
 
             //Expecificando o valor para limite de saque.
             conta1.Limite = 1000m;

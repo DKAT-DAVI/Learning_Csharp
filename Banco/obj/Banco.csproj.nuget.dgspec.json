@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Banco/Banco.csproj": {}
+    "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Banco/Banco.csproj": {}
   },
   "projects": {
-    "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Banco/Banco.csproj": {
+    "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Banco/Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Banco/Banco.csproj",
+        "projectUniqueName": "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Banco/Banco.csproj",
         "projectName": "Banco",
-        "projectPath": "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Banco/Banco.csproj",
+        "projectPath": "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Banco/Banco.csproj",
         "packagesPath": "/home/dkat/.nuget/packages/",
-        "outputPath": "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Banco/obj/",
+        "outputPath": "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Banco/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dkat/.nuget/NuGet/NuGet.Config"

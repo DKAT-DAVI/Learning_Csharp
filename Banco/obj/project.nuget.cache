@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WH6qCc+7ZM3D76LolNxq+0HkROzcos4DLEGhVab2XnTKrN1302mm4+JqOKDXh7RKabn4WgILSekqBiZ8LspNAA==",
+  "dgSpecHash": "2H3LZEiPZes+bCMFr4PPP5Ec5pWeRlGIdOvu2KUDBUQCf37GxScFMd47pvneP8bjj2nzBubkuK4bdvrGJWioNA==",
   "success": true,
-  "projectFilePath": "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Banco/Banco.csproj",
+  "projectFilePath": "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Banco/Banco.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

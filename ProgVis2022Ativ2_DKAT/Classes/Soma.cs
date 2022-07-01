@@ -26,7 +26,7 @@ public class Soma
     método ToString.*/
     public override string ToString()
     {
-        return $"Valor A = {ValorA}\nValor B = {ValorB}\nSoma = {Operar()}";
+        return $"Objeto: Soma\nToString():\nValor A = {ValorA}\nValor B = {ValorB}\nSoma = {Operar()}\n";
     }
 
 }

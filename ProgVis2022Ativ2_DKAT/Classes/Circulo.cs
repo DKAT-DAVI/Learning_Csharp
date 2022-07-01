@@ -19,6 +19,6 @@ public class Circulo
     /*Formatação da exibição, usando o
     método ToString.*/
     public override string ToString(){
-        return $"Raio = {Raio.ToString("0.00")}\nÁrea = {CalcularArea().ToString("0.000")}";
+        return $"Objeto: Raio\nToString();\nRaio = {Raio.ToString("0.00")}\nÁrea = {CalcularArea().ToString("0.000")}\n";
     }
 }

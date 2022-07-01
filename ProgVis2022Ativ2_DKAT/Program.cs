@@ -20,24 +20,28 @@ namespace Program{
 
         //Métodos para a resolução das questões.
         private static void ProcessarQuestao1() {
-            
+            Cabecalho(1);
         }
         private static void ProcessarQuestao2() {
-            
+            Cabecalho(2);
+            Eletrodomestico eletrodomestico = new Eletrodomestico();
+            eletrodomestico.Codigo = 851796157395;
+            eletrodomestico.Nome = "Refrigerador";
+            eletrodomestico.Preco = 3253.12M;
+            Console.WriteLine(eletrodomestico);
         }
         private static void ProcessarQuestao3() {
             Cabecalho(3);
             Circulo circulo = new Circulo();
             circulo.Raio = 2.0;
-            Console.WriteLine($"Objeto: Círculo\nToString():\n{circulo}\n");
+            Console.WriteLine(circulo);
         }
         private static void ProcessarQuestao4() {
             Cabecalho(4);
             Soma soma = new Soma();
             soma.ValorA = 2.5;
             soma.ValorB = -3.0;
-            Console.WriteLine($"Objeto: Soma\nToString():\n{soma}");
-
+            Console.WriteLine(soma);
         }
         private static void ProcessarQuestao5() {
             

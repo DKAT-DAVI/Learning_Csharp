@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 6/Código 6.csproj": {}
+  },
+  "projects": {
+    "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 6/Código 6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 6/Código 6.csproj",
+        "projectName": "Código 6",
+        "projectPath": "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 6/Código 6.csproj",
+        "packagesPath": "/home/dkat/.nuget/packages/",
+        "outputPath": "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 6/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dkat/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -12,7 +12,7 @@ namespace Program{
         }
         
         //Método para exibição de cabeçalho da questão.
-        private static void Cabeçalho(int numeroDaQuestao) {
+        private static void Cabecalho(int numeroDaQuestao) {
             Console.WriteLine("-----------------------------------");
             Console.WriteLine($"|      Resposta da Questão {numeroDaQuestao}      |");
             Console.WriteLine("-----------------------------------\n");
@@ -26,10 +26,13 @@ namespace Program{
             
         }
         private static void ProcessarQuestao3() {
-            
+            Cabecalho(3);
+            Circulo circulo = new Circulo();
+            circulo.Raio = 2.0;
+            Console.WriteLine($"Objeto: Círculo\nToString():\n{circulo}\n");
         }
         private static void ProcessarQuestao4() {
-            Cabeçalho(4);
+            Cabecalho(4);
             Soma soma = new Soma();
             soma.ValorA = 2.5;
             soma.ValorB = -3.0;

@@ -1,0 +1,15 @@
+/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 7/obj/Debug/net6.0/Código 7.csproj.AssemblyReference.cache
+/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 7/obj/Debug/net6.0/Código 7.GeneratedMSBuildEditorConfig.editorconfig
+/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 7/obj/Debug/net6.0/Código 7.AssemblyInfoInputs.cache
+/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 7/obj/Debug/net6.0/Código 7.AssemblyInfo.cs
+/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 7/obj/Debug/net6.0/Código 7.csproj.CoreCompileInputs.cache
+/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 7/bin/Debug/net6.0/Código 7
+/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 7/bin/Debug/net6.0/Código 7.deps.json
+/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 7/bin/Debug/net6.0/Código 7.runtimeconfig.json
+/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 7/bin/Debug/net6.0/Código 7.dll
+/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 7/bin/Debug/net6.0/Código 7.pdb
+/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 7/obj/Debug/net6.0/Código 7.dll
+/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 7/obj/Debug/net6.0/refint/Código 7.dll
+/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 7/obj/Debug/net6.0/Código 7.pdb
+/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 7/obj/Debug/net6.0/Código 7.genruntimeconfig.cache
+/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 7/obj/Debug/net6.0/ref/Código 7.dll

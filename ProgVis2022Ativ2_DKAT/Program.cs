@@ -44,7 +44,14 @@ namespace Program{
             Console.WriteLine(soma);
         }
         private static void ProcessarQuestao5() {
-            
+            Cabecalho(5);
+            Usuario luis = new Usuario();
+            luis.Nome = "Luis Guisso";
+            luis.Email = "luis.guisso@ifnmg.edu.br";
+            //luis.Nascimento recebe um novo objeto do tipo DateTime.
+            luis.Nascimento = new DateTime(1982, 01, 01);
+            Console.WriteLine(luis);
+
         }
     }
 }

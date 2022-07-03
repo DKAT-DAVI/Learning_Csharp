@@ -59,6 +59,22 @@ namespace Program{
             soma.ValorA = 2.5;
             soma.ValorB = -3.0;
             Console.WriteLine(soma);
+
+            Subtracao subtracao = new Subtracao();
+            subtracao.ValorA = 2.5;
+            subtracao.ValorB = -3.0;
+            Console.WriteLine(subtracao);
+
+            Multiplicacao multiplicacao = new Multiplicacao();
+            multiplicacao.ValorA = 2.5;
+            multiplicacao.ValorB = -3.0;
+            Console.WriteLine(multiplicacao);
+
+            Divisao divisao = new Divisao();
+            divisao.ValorA = 2.5;
+            divisao.ValorB = -3.0;
+            Console.WriteLine(divisao);
+            
         }
         private static void ProcessarQuestao5() {
             Cabecalho(5);

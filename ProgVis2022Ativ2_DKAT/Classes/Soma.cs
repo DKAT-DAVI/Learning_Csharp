@@ -1,6 +1,6 @@
 using System;
 
-//Classe que faz a soma de dois números
+//Classe que faz uma soma de dois números
 public class Soma
 {
     //Atributos
@@ -26,7 +26,7 @@ public class Soma
     método ToString.*/
     public override string ToString()
     {
-        return $"Objeto: Soma\nToString():\nValor A = {ValorA}\nValor B = {ValorB}\nSoma = {Operar()}\n";
+        return $"Objeto: Soma\nToString();\nValor A = {ValorA.ToString("0.0")}\nValor B = {ValorB.ToString("0.0")}\nSoma = {Operar()}\n";
     }
 
 }

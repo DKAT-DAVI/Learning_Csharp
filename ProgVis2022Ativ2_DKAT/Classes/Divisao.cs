@@ -25,6 +25,6 @@ public class Divisao
     //Formatação para exibição.
     public override String ToString()
     {
-        return $"Objeto: Divisão\nToString();\nValor A = {ValorA.ToString("0.0")}\nValor B = {ValorB.ToString("0.0")}\nDivisão = {Operar().ToString("0.0000000")}";
+        return $"Objeto: Divisão\nToString();\nValor A = {ValorA.ToString("0.0")}\nValor B = {ValorB.ToString("0.0")}\nDivisão = {Operar().ToString("0.0000000")}\n";
     }
 }

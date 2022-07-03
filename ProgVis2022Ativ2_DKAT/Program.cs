@@ -96,8 +96,9 @@ namespace Program{
             //Exibir os dados.
             Console.WriteLine(luis);
 
-            //Verificação da senha.
+            //Teste de autenticação de senha.
             Console.WriteLine($"Senha correta? {(cLuis.Autenticar("asdf123") ? "Sim":"Não")}");
+            Console.WriteLine($"Senha correta? {(cLuis.Autenticar("asdf12") ? "Sim":"Não")}");
 
         }
     }

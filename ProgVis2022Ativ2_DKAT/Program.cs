@@ -50,7 +50,21 @@ namespace Program{
             luis.Email = "luis.guisso@ifnmg.edu.br";
             //luis.Nascimento recebe um novo objeto do tipo DateTime.
             luis.Nascimento = new DateTime(1982, 01, 01);
+
+            Credencial cLuis = new Credencial();
+            cLuis.Identificacao = "luis.guisso";
+            cLuis.Senha = "asdf123";
+            cLuis.Ativo = true;
+
+            //Ligação entre os objetos.
+            luis.credencial = cLuis;
+            cLuis.usuario = luis;
+
+            //Exibir os dados.
             Console.WriteLine(luis);
+
+            //Verificação da senha.
+            Console.WriteLine($"Senha correta? {(cLuis.Autenticar("asdf123") ? "Sim":"Não")}");
 
         }
     }

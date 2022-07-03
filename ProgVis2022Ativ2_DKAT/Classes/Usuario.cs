@@ -39,11 +39,13 @@ public class Usuario
             }
         }
 
+    //Associação com a classe Credencial.
+    public Credencial credencial { get; set; }
 
-
+    //Formatação para a exibição usando o ToString
     public override string ToString()
     {
-        return $"** Usuário **\nNome = {Nome}\nEmail = {Email}\nNascimento = {_nascimento.ToString("dd/MM/yyyy")}\nIdade: {Idade}";
+        return $"** Usuário **\nNome = {Nome}\nEmail = {Email}\nNascimento = {_nascimento.ToString("dd/MM/yyyy")}\nIdade: {Idade}\n** Credencial **\nIdentificação = {credencial.Identificacao}\n{(credencial.Ativo is true ? "Ativo" : "Inativo")}";
     }
 
 }

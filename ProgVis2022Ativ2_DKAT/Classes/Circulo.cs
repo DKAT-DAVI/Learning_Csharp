@@ -13,12 +13,12 @@ public class Circulo
     public Double CalcularArea()
     {
         //Fórmula da área de um círculo: pi*raio².
-        return Math.PI * Math.Pow(Raio, Raio);
+        return Math.PI * Math.Pow(Raio, 2);
     }
 
     /*Formatação da exibição, usando o
     método ToString.*/
     public override string ToString(){
-        return $"Objeto: Raio\nToString();\nRaio = {Raio.ToString("0.00")}\nÁrea = {CalcularArea().ToString("0.000")}\n";
+        return $"Objeto: Círculo\nToString();\nRaio = {Raio.ToString("0.00")}\nÁrea = {CalcularArea().ToString("0.000")}\n";
     }
 }

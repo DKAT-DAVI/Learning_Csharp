@@ -1,5 +1,4 @@
 using System;
-using System.Text;
 
 //Classe que cadastra um usuário.
 public class Usuario

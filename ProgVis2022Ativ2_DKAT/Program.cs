@@ -21,6 +21,10 @@ namespace Program{
         //Métodos para a resolução das questões.
         private static void ProcessarQuestao1() {
             Cabecalho(1);
+            Paciente paciente = new Paciente();
+            paciente.Nome = "Beatriz Yana";
+            paciente.Cns = 227683387130006;
+            Console.WriteLine(paciente);
         }
         private static void ProcessarQuestao2() {
             Cabecalho(2);
@@ -32,9 +36,22 @@ namespace Program{
         }
         private static void ProcessarQuestao3() {
             Cabecalho(3);
-            Circulo circulo = new Circulo();
-            circulo.Raio = 2.0;
+            Circulo circulo = new Circulo() {Raio = 2.0};
             Console.WriteLine(circulo);
+
+            Quadrado quadrado = new Quadrado() {Lado = 2.0};
+            Console.WriteLine(quadrado);
+
+            Retangulo retangulo = new Retangulo();
+            retangulo.LadoA = 2.0;
+            retangulo.LadoB = 3.0;
+            Console.WriteLine(retangulo);
+
+            Losango losango = new Losango();
+            losango.DiagonalA = 2.0;
+            losango.DiagonalB = 3.0;
+            Console.WriteLine(losango);
+
         }
         private static void ProcessarQuestao4() {
             Cabecalho(4);

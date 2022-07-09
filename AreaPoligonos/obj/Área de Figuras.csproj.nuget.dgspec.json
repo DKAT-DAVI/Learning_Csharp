@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/Área de Figuras.csproj": {}
+    "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/AreaPoligonos/Área de Figuras.csproj": {}
   },
   "projects": {
-    "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/Área de Figuras.csproj": {
+    "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/AreaPoligonos/Área de Figuras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/Área de Figuras.csproj",
+        "projectUniqueName": "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/AreaPoligonos/Área de Figuras.csproj",
         "projectName": "Área de Figuras",
-        "projectPath": "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/Área de Figuras.csproj",
+        "projectPath": "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/AreaPoligonos/Área de Figuras.csproj",
         "packagesPath": "/home/dkat/.nuget/packages/",
-        "outputPath": "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Área de Figuras/obj/",
+        "outputPath": "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/AreaPoligonos/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dkat/.nuget/NuGet/NuGet.Config"

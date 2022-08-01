@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Códigos.csproj": {}
+    "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 1/Códigos.csproj": {}
   },
   "projects": {
-    "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Códigos.csproj": {
+    "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 1/Códigos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Códigos.csproj",
+        "projectUniqueName": "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 1/Códigos.csproj",
         "projectName": "Códigos",
-        "projectPath": "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/Códigos.csproj",
+        "projectPath": "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 1/Códigos.csproj",
         "packagesPath": "/home/dkat/.nuget/packages/",
-        "outputPath": "/home/dkat/2º ano IFNMG/Programação Visual/Learning C#/obj/",
+        "outputPath": "/home/dkat/2º ano IFNMG/Programação Visual/POO_with_C#/Código 1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dkat/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

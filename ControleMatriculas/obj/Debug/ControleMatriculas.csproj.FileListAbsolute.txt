@@ -1,0 +1,35 @@
+C:\Users\Aluno\Desktop\ControleMatriculas\bin\Debug\ControleMatriculas.exe.config
+C:\Users\Aluno\Desktop\ControleMatriculas\bin\Debug\ControleMatriculas.exe
+C:\Users\Aluno\Desktop\ControleMatriculas\bin\Debug\ControleMatriculas.pdb
+C:\Users\Aluno\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.Form1.resources
+C:\Users\Aluno\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.exe
+C:\Users\Aluno\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.pdb
+C:\Users\Davi Teixeira\Desktop\ControleMatriculas\bin\Debug\ControleMatriculas.exe.config
+C:\Users\Davi Teixeira\Desktop\ControleMatriculas\bin\Debug\ControleMatriculas.exe
+C:\Users\Davi Teixeira\Desktop\ControleMatriculas\bin\Debug\ControleMatriculas.pdb
+C:\Users\Davi Teixeira\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.csproj.AssemblyReference.cache
+C:\Users\Davi Teixeira\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davi Teixeira\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.Form1.resources
+C:\Users\Davi Teixeira\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.Properties.Resources.resources
+C:\Users\Davi Teixeira\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.csproj.GenerateResource.cache
+C:\Users\Davi Teixeira\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.csproj.CoreCompileInputs.cache
+C:\Users\Davi Teixeira\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.exe
+C:\Users\Davi Teixeira\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.pdb
+C:\Users\Davi Teixeira\Desktop\ControleMatriculas\obj\Debug\ControleMatriculas.Matriculados.resources
+D:\Pendrive\IFNMG\POO\ControleMatriculas\bin\Debug\ControleMatriculas.exe.config
+D:\Pendrive\IFNMG\POO\ControleMatriculas\bin\Debug\ControleMatriculas.exe
+D:\Pendrive\IFNMG\POO\ControleMatriculas\bin\Debug\ControleMatriculas.pdb
+D:\Pendrive\IFNMG\POO\ControleMatriculas\obj\Debug\ControleMatriculas.csproj.AssemblyReference.cache
+D:\Pendrive\IFNMG\POO\ControleMatriculas\obj\Debug\ControleMatriculas.csproj.SuggestedBindingRedirects.cache
+D:\Pendrive\IFNMG\POO\ControleMatriculas\obj\Debug\ControleMatriculas.Form1.resources
+D:\Pendrive\IFNMG\POO\ControleMatriculas\obj\Debug\ControleMatriculas.Matriculados.resources
+D:\Pendrive\IFNMG\POO\ControleMatriculas\obj\Debug\ControleMatriculas.Properties.Resources.resources
+D:\Pendrive\IFNMG\POO\ControleMatriculas\obj\Debug\ControleMatriculas.csproj.GenerateResource.cache
+D:\Pendrive\IFNMG\POO\ControleMatriculas\obj\Debug\ControleMatriculas.csproj.CoreCompileInputs.cache
+D:\Pendrive\IFNMG\POO\ControleMatriculas\obj\Debug\ControleMatriculas.exe
+D:\Pendrive\IFNMG\POO\ControleMatriculas\obj\Debug\ControleMatriculas.pdb

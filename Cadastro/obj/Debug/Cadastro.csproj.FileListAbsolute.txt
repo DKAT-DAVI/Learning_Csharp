@@ -1,0 +1,15 @@
+G:\IFNMG\POO\Cadastro\bin\Debug\Cadastro.exe.config
+G:\IFNMG\POO\Cadastro\bin\Debug\Cadastro.exe
+G:\IFNMG\POO\Cadastro\bin\Debug\Cadastro.pdb
+G:\IFNMG\POO\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+G:\IFNMG\POO\Cadastro\obj\Debug\Cadastro.csproj.SuggestedBindingRedirects.cache
+G:\IFNMG\POO\Cadastro\obj\Debug\Cadastro.CadastroEndereco.resources
+G:\IFNMG\POO\Cadastro\obj\Debug\Cadastro.CadastroLivro.resources
+G:\IFNMG\POO\Cadastro\obj\Debug\Cadastro.CadastroUsuario.resources
+G:\IFNMG\POO\Cadastro\obj\Debug\Cadastro.Form1.resources
+G:\IFNMG\POO\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+G:\IFNMG\POO\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+G:\IFNMG\POO\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+G:\IFNMG\POO\Cadastro\obj\Debug\Cadastro.exe
+G:\IFNMG\POO\Cadastro\obj\Debug\Cadastro.pdb
+G:\IFNMG\POO\Cadastro\obj\Debug\Cadastro.JanelaLogin.resources

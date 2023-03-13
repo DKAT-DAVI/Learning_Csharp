@@ -1,0 +1,16 @@
+G:\dkat\POO\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+G:\dkat\POO\Polimorfismo\bin\Debug\Polimorfismo.exe
+G:\dkat\POO\Polimorfismo\bin\Debug\Polimorfismo.pdb
+G:\dkat\POO\Polimorfismo\obj\Debug\Polimorfismo.csproj.AssemblyReference.cache
+G:\dkat\POO\Polimorfismo\obj\Debug\Polimorfismo.csproj.SuggestedBindingRedirects.cache
+G:\dkat\POO\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+G:\dkat\POO\Polimorfismo\obj\Debug\Polimorfismo.exe
+G:\dkat\POO\Polimorfismo\obj\Debug\Polimorfismo.pdb
+D:\Pendrive\Pendrive\IFNMG\POO\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+D:\Pendrive\Pendrive\IFNMG\POO\Polimorfismo\bin\Debug\Polimorfismo.exe
+D:\Pendrive\Pendrive\IFNMG\POO\Polimorfismo\bin\Debug\Polimorfismo.pdb
+D:\Pendrive\Pendrive\IFNMG\POO\Polimorfismo\obj\Debug\Polimorfismo.csproj.AssemblyReference.cache
+D:\Pendrive\Pendrive\IFNMG\POO\Polimorfismo\obj\Debug\Polimorfismo.csproj.SuggestedBindingRedirects.cache
+D:\Pendrive\Pendrive\IFNMG\POO\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+D:\Pendrive\Pendrive\IFNMG\POO\Polimorfismo\obj\Debug\Polimorfismo.exe
+D:\Pendrive\Pendrive\IFNMG\POO\Polimorfismo\obj\Debug\Polimorfismo.pdb

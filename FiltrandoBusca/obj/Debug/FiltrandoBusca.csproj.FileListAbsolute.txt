@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\FiltrandoBusca\bin\Debug\FiltrandoBusca.exe.config
+C:\Users\Aluno\Desktop\FiltrandoBusca\bin\Debug\FiltrandoBusca.exe
+C:\Users\Aluno\Desktop\FiltrandoBusca\bin\Debug\FiltrandoBusca.pdb
+C:\Users\Aluno\Desktop\FiltrandoBusca\obj\Debug\FiltrandoBusca.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\FiltrandoBusca\obj\Debug\FiltrandoBusca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\FiltrandoBusca\obj\Debug\FiltrandoBusca.Form1.resources
+C:\Users\Aluno\Desktop\FiltrandoBusca\obj\Debug\FiltrandoBusca.Properties.Resources.resources
+C:\Users\Aluno\Desktop\FiltrandoBusca\obj\Debug\FiltrandoBusca.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\FiltrandoBusca\obj\Debug\FiltrandoBusca.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\FiltrandoBusca\obj\Debug\FiltrandoBusca.exe
+C:\Users\Aluno\Desktop\FiltrandoBusca\obj\Debug\FiltrandoBusca.pdb
